@@ -1,2 +1,2 @@
-# gitbook-template
-Template repository for gitbook
+# Initial page
+
